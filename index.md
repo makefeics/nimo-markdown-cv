@@ -4,7 +4,7 @@ title: Wode "Nimo" Ni
 email:
   url: makefeics@outlook.com
   text: makefeics@outlook.com
-blog:
+website:
   url: https://apm.best
   text: apm.best
 ---
