@@ -8,7 +8,7 @@ blog:
   url: https://apm.best
   text: apm.best
 phone:
-  url: +(86)186-1231-1722
+  url: 18612311722
   text: +(86)186-1231-1722
   
 ---
