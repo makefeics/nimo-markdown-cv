@@ -47,7 +47,7 @@ Tianjin, TJ
 
 ## Experience
 
-### **Shanghai Xifanxi Co., Ltd.** `2018.10 - `
+### **Shanghai Xifanxi Co., Ltd.** `2018.10 - now`
 
 ```
 Shanghai, SH
