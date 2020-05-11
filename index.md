@@ -47,7 +47,7 @@ Tianjin, TJ
 
 ## Experience
 
-### **GoodBar, Shinho Group** `2017.5 - 2017.8`
+### **Shanghai Xifanxi Co., Ltd.** `2018.10 - `
 
 ```
 Shanghai, SH
@@ -56,12 +56,20 @@ Shanghai, SH
 _Research Assistant_<br>
 **Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
-### **Meiqia** `2017.1 - 2017.5`
+### **Meiqia** `2017 - 2018`
+
+```
+Beijing, BJ
+```
 
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### **Vlife** `2015.6 - 2015.8`
+### **Vlife** `2015 - 2017`
+
+```
+San Jose, CA
+```
 
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
