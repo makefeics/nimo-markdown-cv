@@ -42,16 +42,8 @@ Tianjin, TJ
 ```
 
 - B.S. in Computer Science,
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
 - Computer Science Departmental Honors
+
 
 ## Experience
 
@@ -76,13 +68,6 @@ Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reu
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
 ## Honors & Awards
 
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
@@ -102,4 +87,4 @@ Research Experiences for Undergraduates in Software Engineering (REUSE) Admissio
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2020 -->
