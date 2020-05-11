@@ -29,7 +29,7 @@ Supported arguments:
 ### **University Of Texas At Dallas** `2014 - 2015`
 
 ```
-Dallas,TX 
+Dallas, TX 
 ```
 
 - M.S. in Software Engineering
