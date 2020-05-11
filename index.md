@@ -26,22 +26,22 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University Of Texas At Dallas** `2014 - 2015`
 
 ```
-Pittsburgh, PA
+Dallas,TX 
 ```
 
-- Ph.D. in Software Engineering
+- M.S. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Tianjin University Of Technology** `2009 - 2013`
 
 ```
-New York, NY
+Tianjin, TJ
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
+- B.S. in Computer Science,
 - Vision, Graphics track
 
 ### **Dickinson College** `2013.9 - 2016.5`
