@@ -33,7 +33,6 @@ Supported arguments:
 ```
 
 - 硕士 软件工程
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **天津理工大学** `2009 - 2013`
 
