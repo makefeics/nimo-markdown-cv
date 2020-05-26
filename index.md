@@ -54,7 +54,11 @@ Supported arguments:
 ```
 
 _产品经理_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+
+- 广告投放
+- 数据分析
+- 电商小程序及微商城
+
 主导完成了电商小程序及微商城；
 主导完成了营销服务；
 广告投放；
