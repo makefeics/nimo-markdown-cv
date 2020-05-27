@@ -8,7 +8,7 @@ blog:
   url: https://apm.best
   text: apm.best
 phone:
-  text: +(86)186-1231-1722
+   +(86)186-1231-1722
   
 ---
 
@@ -21,8 +21,6 @@ Supported arguments:
     - phone
     - email
 -->
-
-{% include cv-contact.html %}
 
 ## 教育
 
