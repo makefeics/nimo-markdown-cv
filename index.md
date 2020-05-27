@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Mark Resume
 email:
   text: makefeicsgmail.com
 blog:
