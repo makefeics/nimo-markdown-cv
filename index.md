@@ -104,21 +104,6 @@ _产品经理_<br>
 
 Last updated: May 2020 -->
 
-
----
-layout: cv
-title: Wode "Nimo" Ni
-email:
-  url: makefeics@outlook.com
-  text: makefeics@outlook.com
-blog:
-  url: https://apm.best
-  text: apm.best
-phone:
-  text: +(86)186-1231-1722
-  
----
-
 # Kefei **Ma**
 
 <!--
