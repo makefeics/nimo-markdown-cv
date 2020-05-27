@@ -2,10 +2,8 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: makefeics@outlook.com
-  text: makefeics@outlook.com
+  text: makefeicsgmail.com
 blog:
-  url: https://apm.best
   text: apm.best
 phone:
    +(86)186-1231-1722
