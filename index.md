@@ -12,7 +12,7 @@ phone:
   
 ---
 
-# 克菲 **马**
+# 马克菲
 
 <!--
 include contact information from the front matter
