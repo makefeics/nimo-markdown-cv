@@ -1,4 +1,4 @@
-j'j---
+---
 layout: cv
 title: Mark Resume
 email:
@@ -42,7 +42,7 @@ Supported arguments:
 
 ## 工作
 
-### **喜繁喜商贸有限公司** `2018.10 - Now`
+### **欣和集团** `2018.10 - Now`
 
 ```
 上海
