@@ -79,7 +79,7 @@ San Jose, US
 
 _Product Manager_<br>
 
-1. Structure of User service and Merchant service.
+1. User service and Merchant service.
 2. Design of hierarchy and dimensions of labeling system.
 3. Design of marketing template services, precise marketing and push service, and monitoring of marketing data.
 
