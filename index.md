@@ -138,19 +138,20 @@ Tianjin, TJ
 ### **Shanghai Xifanxi Co., Ltd.** `2018.10 - 2020.6`
 
 ```
-Shanghai, SH
+Shanghai, CHN
 ```
 
 _Product Manager_<br>
 
-1. 广告投放：淘宝站内投放 直通车，钻展，超级推荐，品销宝； 头条系投放今日头条，抖音等
-2. 数据分析：投放数据优化；广告素材优化；页面数据优化；
-3. 电商商城：电商小程序及微商城
-4. 营销服务：设计短信营销服务，小程序推送营销服务，app推送营销;
+1. OMS and PMS update and iteration.
+2. OMS connection with third-party e-commerce platform.
+3. Wechat online store and mini-program design.
+4. Digital advertising and optimization.
+
 ### **Beijing Meiqia Co., Ltd.** `2017.06 - 2018.06`
 
 ```
-Beijing, BJ
+Beijing, CHN
 ```
 
 _Product Manager_<br>
