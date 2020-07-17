@@ -153,11 +153,11 @@ Beijing, CHN
 ```
 
 _Product Manager_<br>
+
 1. Integration CRM with Customer Service System.
 2. Business & Operation Support System: User management, Authority management, Resource management, Information management.
-3. Payment platform feature.
-4. Email direct marketing service and SMS marketing function.
-5. Competitive product analysis, UI design and optimization, WEB and mobile frame prototype and interface interaction design.
+3. Email direct marketing service and SMS marketing function.
+4. Competitive product analysis, UI design and optimization, WEB and mobile frame prototype and interface interaction design.
 
 
 ### **Vlife** `2015.06 - 2017.04`
@@ -167,11 +167,10 @@ San Jose, US
 ```
 
 _Product Manager_<br>
-Worked on server-side web applications and server deployment tools.
 
 1. Structure of User service and Merchant service.
 2. Design of hierarchy and dimensions of labeling system.
-3. Design of marketing template services, precise marketing and push, and monitoring of marketing data.
+3. Design of marketing template services, precise marketing and push service, and monitoring of marketing data.
 
 
 <!-- ### Footer
