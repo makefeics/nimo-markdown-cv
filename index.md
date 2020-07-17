@@ -121,7 +121,6 @@ Dallas, TX
 ```
 
 - M.S. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **Tianjin University Of Technology** `2009 - 2013`
 
@@ -130,7 +129,6 @@ Tianjin, TJ
 ```
 
 - B.S. in Computer Science,
-- Computer Science Departmental Honors
 
 
 ## Experience
