@@ -2,7 +2,7 @@
 layout: cv
 title: Mark Resume
 email:
-  text: makefeicsgmail.com
+  text: makefeics@gmail.com
 blog:
   text: apm.best
 phone:
