@@ -163,7 +163,7 @@ _Product Manager_<br>
 ### **Vlife** `2015.06 - 2017.04`
 
 ```
-San Jose, CA
+San Jose, US
 ```
 
 _Product Manager_<br>
