@@ -39,7 +39,7 @@ Dallas, TX
 Tianjin, TJ
 ```
 
-- B.S. in Computer Science,
+- B.S. in Computer Science
 
 
 ## Experience
