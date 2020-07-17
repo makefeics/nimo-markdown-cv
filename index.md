@@ -135,25 +135,33 @@ Tianjin, TJ
 
 ## Experience
 
-### **Shanghai Xifanxi Co., Ltd.** `2018.10 - now`
+### **Shanghai Xifanxi Co., Ltd.** `2018.10 - 2020.6`
 
 ```
 Shanghai, SH
 ```
 
 _Product Manager_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
-### **Beijing Meiqia Co., Ltd.** `2017 - 2018`
+1. 广告投放：淘宝站内投放 直通车，钻展，超级推荐，品销宝； 头条系投放今日头条，抖音等
+2. 数据分析：投放数据优化；广告素材优化；页面数据优化；
+3. 电商商城：电商小程序及微商城
+4. 营销服务：设计短信营销服务，小程序推送营销服务，app推送营销;
+### **Beijing Meiqia Co., Ltd.** `2017.06 - 2018.06`
 
 ```
 Beijing, BJ
 ```
 
 _Product Manager_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+1. Integration CRM with Customer Service System.
+2. Business & Operation Support System: User management, Authority management, Resource management, Information management.
+3. Payment platform feature.
+4. Email direct marketing service and SMS marketing function.
+5. Competitive product analysis, UI design and optimization, WEB and mobile frame prototype and interface interaction design.
 
-### **Vlife** `2015 - 2017`
+
+### **Vlife** `2015.06 - 2017.04`
 
 ```
 San Jose, CA
@@ -162,12 +170,11 @@ San Jose, CA
 _Product Manager_<br>
 Worked on server-side web applications and server deployment tools.
 
-Custom System Merchant System Marketing Service Tag Service 管理后台业务体系的搭建 功能架构与迭代
-用户需求收集调研，移动端产品需求分析，交互原型设计，产品文档输出
-Vlife后台业务体系的构建，用户系统与商户系统的搭建。
-Tag Service：主导建立了商户与用户的结构化标签体系，标签的分类，名称及规则：标签系统的层级与维度设计。
-Marketing Service：构建了Vlife的营销服务，营销类别与营销维度的设计，模板服务的设计，精准营销与推送，营销数据的监控。
-Worked on server-side web applications and server deployment tools.
+1. Structure of User service and Merchant service.
+2. Design of hierarchy and dimensions of labeling system.
+3. Design of marketing template services, precise marketing and push, and monitoring of marketing data.
+
+
 
 ## Mentoring
 
