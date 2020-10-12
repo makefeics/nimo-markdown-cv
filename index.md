@@ -2,7 +2,7 @@
 layout: cv
 title: Mark Resume
 email:
-  text: makefeics@gmail.com
+  makefeics@gmail.com
 phone:
   text:+(86)186-1231-1722
   
