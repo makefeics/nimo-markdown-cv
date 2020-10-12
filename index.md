@@ -1,16 +1,12 @@
----
-layout: cv
-title: Mark Resume
+
 email:
   text: makefeics@gmail.com
-blog:
-  text: apm.best
 phone:
   text:+(86)186-1231-1722
   
----
 
-# 马克菲test
+
+# 马克菲
 
 <!--
 include contact information from the front matter
