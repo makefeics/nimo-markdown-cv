@@ -3,13 +3,14 @@ layout: cv
 title: Mark Resume
 email:
   text: makefeics@gmail.com
+blog:
+  text: apm.best
 phone:
   text:+(86)186-1231-1722
   
 ---
 
-
-# Kefei **Ma**
+# 马克菲
 
 <!--
 include contact information from the front matter
@@ -19,69 +20,72 @@ Supported arguments:
     - email
 -->
 
-{% include cv-contact.html %}
+## 教育
 
-## Education
-
-### **University Of Texas At Dallas** `2014 - 2015`
+### **德克萨斯大学达拉斯分校 University Of Texas At Dallas** `2014 - 2015`
 
 ```
-Dallas, TX 
+达拉斯, 德克萨斯 
 ```
 
-- M.S. in Software Engineering
+- 硕士 软件工程
 
-### **Tianjin University Of Technology** `2009 - 2013`
-
-```
-Tianjin, TJ
-```
-
-- B.S. in Computer Science
-
-
-## Experience
-
-### **Shanghai Xifanxi Co., Ltd.** `2018.10 - 2020.6`
+### **天津理工大学** `2009 - 2013`
 
 ```
-Shanghai, CHN
+天津, 中国
 ```
 
-_Product Manager_<br>
-
-1. OMS and PMS update and iteration.
-2. OMS connection with third-party e-commerce platform.
-3. Wechat online store and mini-program design.
-4. Digital advertising and optimization.
-
-### **Beijing Meiqia Co., Ltd.** `2017.06 - 2018.06`
-
-```
-Beijing, CHN
-```
-
-_Product Manager_<br>
-
-1. Integration CRM with Customer Service System.
-2. Business & Operation Support System: User management, Authority management, Resource management, Information management.
-3. Email direct marketing service and SMS marketing function.
-4. Competitive product analysis, UI design and optimization, WEB and mobile frame prototype and interface interaction design.
+- 本科 计算机科学与技术
+- Computer Science Departmental Honors
 
 
-### **Vlife** `2015.06 - 2017.04`
+## 工作
+
+### **欣和集团** `2018.10 - 2020.5`
 
 ```
-San Jose, US
+上海
 ```
 
-_Product Manager_<br>
-
-1. User service and Merchant service.
-2. Design of hierarchy and dimensions of labeling system.
-3. Design of marketing template services, precise marketing and push service, and monitoring of marketing data.
+_产品经理_<br>
 
 
-<!-- ### Footer
+1. 电商商城：电商微商城及小程序。
+2. OMS系統：訂單處理中心，打通第三方平臺及後端供應鏈。
+3. 广告投放：a.淘宝站内投放：直通车，钻展，超级推荐，品销宝； b.站外投放：头条系/騰訊系。
+4. 数据分析：投放数据优化，广告素材优化，页面数据优化。
 
-Last updated: May 2020 -->
+### **美洽网络科技有限公司** `2017 - 2018`
+
+```
+北京
+```
+
+_产品经理_<br>
+
+
+PaaS与SaaS产品的规划设计和迭代
+
+1. 后台产品：主导了BOSS系统从0到1的搭建，客服系统与CRM系统的集成，实现租户管理，用户管理，权限管理，资源管理。
+2. CRM产品：客服及客戶管理系统。
+3. 支付服务：独立的应用系统，对接第三方支付平台。
+4. 营销服务：邮件营销与短信营销，营销模板，资源控制。
+
+
+
+### **Vlife** `2015 - 2017`
+
+```
+圣何塞
+```
+
+_产品经理_<br>
+
+1. 需求调研：用户需求收集调研，移动端产品需求分析，交互原型设计，产品文档输出。
+2. 后台业务：后台业务体系的构建，用户系统与商户系统的搭建。
+3. 標籤體系：建立了商户与用户的结构化标签体系。
+
+
+
+
