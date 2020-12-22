@@ -2,7 +2,7 @@
 layout: cv
 title: Mark Resume
 email:
-  text: makefeics@gmail.com
+  text: makefeics@outlook.com
 blog:
   text: apm.best
 homepage:
@@ -21,9 +21,10 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+<br/>
 
 美国留学，计算机硕士，硅谷工作经验，5年产品和技术经验，国际化视野，数据驱动，思维开阔，英语优秀。
-
+<br/>
 ## 教育
 
 ### **德克萨斯大学达拉斯分校 University Of Texas At Dallas（专排Top50）** `2013 - 2015`
