@@ -103,7 +103,7 @@ Vlife是一家有100万+注册用户的北美社交网站，用户分享资讯�
 
 上海国际展览中心是展会的组织者，主要是为促成上海与达拉斯高新产业的合作交流。
 
-1. 领导负责2014年浦东—达拉斯高新产业交流展会 Pudong-DFW Forum 网站的搭建。
+1. 领导负责2014年浦东—达拉斯高新产业交流展会 Pudong-DFW Forum 网站的搭建（读研期间）。
 2. 设计了用户引导注册机制，调整页面双语布局，方便中国及美国用户的注册浏览。
 3. 技术栈为Ruby on Rails, HAML, jQuery, CoffeeScript, SCSS, Twitter Bootstrap, PostgreSQL和 MongoDB。
 <br/>
