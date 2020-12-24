@@ -22,23 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
 
-### **德克萨斯大学达拉斯分校 University Of Texas At Dallas（专排Top50）** `2013 - 2015`
-
-```
-达拉斯, 德克萨斯 
-```
-
-- 硕士 软件工程（全奖）
-
-### **天津理工大学** `2009 - 2013`
-
-```
-天津, 中国
-```
-
-- 本科 计算机科学与技术
 
 ## 工作经历
 
@@ -128,6 +112,22 @@ Vlife是一家有100万+注册用户的北美社交网站，用户分享资讯�
 2. 设计了用户引导注册机制，调整页面双语布局，方便中国及美国用户的注册浏览。
 3. 技术栈为Ruby on Rails, HAML, jQuery, CoffeeScript, SCSS, Twitter Bootstrap, PostgreSQL和 MongoDB。
 <br/>
+## 教育经历
 
+### **德克萨斯大学达拉斯分校 University Of Texas At Dallas（专排Top50）** `2013 - 2015`
+
+```
+达拉斯, 德克萨斯 
+```
+
+- 硕士 软件工程（全奖）
+
+### **天津理工大学** `2009 - 2013`
+
+```
+天津, 中国
+```
+
+- 本科 计算机科学与技术
 
 
