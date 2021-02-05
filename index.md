@@ -10,7 +10,7 @@ homepage:
   
 ---
 
-## <center>                                        马克菲</center>
+# 马克菲
 
 <!--
 include contact information from the front matter
