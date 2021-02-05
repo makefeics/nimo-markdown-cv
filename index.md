@@ -24,7 +24,7 @@ Supported arguments:
 
 ## 教育经历
 
-### **德克萨斯大学达拉斯分校 University Of Texas At Dallas（专排Top50）** `2013 - 2015`
+#### **德克萨斯大学达拉斯分校 University Of Texas At Dallas（专排Top50）** `2013 - 2015`
 
 ```
 达拉斯, 美国
@@ -32,7 +32,7 @@ Supported arguments:
 
 - 硕士 软件工程（全奖,Top10%）   核心课程：大数据、敏捷开发、交互原理、软件工程。
 
-### **天津理工大学** `2009 - 2013`
+#### **天津理工大学** `2009 - 2013`
 
 ```
 天津, 中国
