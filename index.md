@@ -50,7 +50,7 @@ Supported arguments:
 上海 
 ```
 
-_项目经理_<br>
+_产品经理_<br>
 
 
 
