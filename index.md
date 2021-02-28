@@ -118,7 +118,7 @@ Beijing
 
 ### **Vlife Website** `2016.10 - 2017.10`
 ```
-圣何塞 
+San Jose 
 ```
 
 1. Lead a team of 5 people to redesign the website, optimize SEO, SNS, increase 85% of new registered users, and increase the average activity rate next month by 16%.
@@ -129,7 +129,7 @@ Beijing
 
 ### **Pudong-DFW website** `2014.01 - 2014.08`
 ```
-达拉斯
+Dallas
 ```
 The Shanghai International Exhibition Center is the organizer of the exhibition, promoting the exchange of high-tech industries, and reaching hundreds of millions of project cooperation.
 1. Lead the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
