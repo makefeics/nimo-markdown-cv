@@ -92,43 +92,33 @@ _Product Manager & Engineer_<br>
 ## Projects
 
 ### **Wechat Store** `2019.03 - 2019.07`
-```
-Shanghai 
-```
+
 1. Led a 7-person team to build a WeChat Store, including sales system, marketing system, membership system, order management system and product management system.
 2. Built differential pricing and rebates function for offline distribution channels to meet offline sales and tracking statistics.
 
 
 ### **Advertising** `2019.05 - 2020.03`
-```
-Shanghai 
-```
+
 1. Worked closely with business operators to locate the core users of Taobao Data Bank, establish a label system,advertising on Toutiao and Tiktok-China.
 2. Optimized advertising population, advertising materials and profit distribution strategies to increase ROI.
 
 
 ### **Patrol system for Lancy** `2018.04 - 2018.10`
-```
-Beijing 
-```
+
 
 1. Led a team of 10-person team to build a patrol system for Lancy, with functions including SKU management and employee approval flow, serving 2000+ stores.
 2. Built a statistical system based on location,increased the inventory turnover rate by 13%.
 
 
 ### **Vlife Website** `2016.10 - 2017.10`
-```
-San Jose 
-```
+
 
 1. Led a 5-person team to redesign the website, optimized SEO, SNS, increased 85% of new registered users, and increased the average activity rate next month by 16%.
 2. Built a new function to establish contact with existing Facebook, Twitter and LinkedIn friends, increased friend invitation registration by 27%.
 3. Built a rebate system based on Affiliate Marketing, allowing users to generate and track links, accounting for 15% of the main site traffic.
 
 ### **Pudong-DFW website** `2014.01 - 2014.08`
-```
-Dallas
-```
+
 The Shanghai International Exhibition Center is the organizer of the exhibition, promoting the exchange of high-tech industries, and reaching hundreds of millions of project cooperation.
 1. Led the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
 2. Built a user-guided registration mechanism and adjusted the bilingual layout of the page to facilitate the registration and browsing of users in China and the United States.
