@@ -125,8 +125,6 @@ San Jose
 2. Built a new function to establish contact with existing Facebook, Twitter and LinkedIn friends, increased friend invitation registration by 27%.
 3. Built a rebate system based on Affiliate Marketing, allowing users to generate and track links, accounting for 15% of the main site traffic.
 
-<br/>
-
 ### **Pudong-DFW website** `2014.01 - 2014.08`
 ```
 Dallas
