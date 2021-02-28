@@ -24,7 +24,7 @@ Supported arguments:
 
 ## Education
 
-### ** University Of Texas At Dallas（Computer Science Top50）** `2013.09 - 2015.05`
+### **University Of Texas At Dallas(Computer Science Top50)** `2013.09 - 2015.05`
 
 ```
 Dallas,TX
