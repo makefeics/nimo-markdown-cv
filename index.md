@@ -54,10 +54,10 @@ _Product Manager_<br>
 
 
 
-1. System planning: Responsible for e-commerce system construction,including Enterprise Resource Planning system,Order Management system and Customer Relationship Management system.
-2. Resource integration: Integrate data from Tmall,JD, WeChat Store,Xiaohongshu, and connect with self-developed OMS and WMS to ensure smooth transactions across the entire link.
-3. Marketing function: Customize WeChat Mini Store marketing and offline marketing activities, coordinate research and development resources, and ensure on-time delivery.
-4. Data analysis: Building an AIPL model and collaborating with the operation department, the user retention rate increased by 35%, and the payment conversion rate increased by 10%.
+1. System planning:Built E-commerce system,including Enterprise Resource Planning system,Order Management system and Customer Relationship Management system.
+2. Resource integration:Integrated data from Tmall,JD, WeChat Store,Xiaohongshu, and connected with self-developed OMS and WMS to ensure smooth transactions across the entire link.
+3. Marketing function:Customized WeChat Mini Store marketing and offline marketing activities, coordinated research and development resources, and ensured on-time delivery.
+4. Data analysis: Built an AIPL model and collaborated with the operation department, the user retention rate increased by 35%, and the payment conversion rate increased by 10%.
 
 <br/>
 
@@ -69,9 +69,9 @@ Beijing, CHN
 
 _Product Manager_<br>
 
-1. CRM products: Communicate with KA customers, build solutions for different industries based on the data center, built the product from 0 to 1.
-2. SaaS products: Responsible for the functional iteration of the marketing module, approval module, and authorization system, serving 100,000+ corporate customers.
-3. Seek cooperation opportunities: Cooperate with Amazon ecological partners to promote sales conversion.
+1. CRM products:Communicated with KA customers, built solutions for different industries based on the data center, built the product from 0 to 1.
+2. SaaS products:Responsible for the functional iteration of the marketing module, approval module, and authorization system, serving 100,000+ corporate customers.
+3. Seek cooperation opportunities:Cooperated with Amazon ecological partners to promote sales conversion.
 
 <br/>
 
@@ -83,9 +83,9 @@ San Jose, US
 
 _Product Manager & Engineer_<br>
 
-1.  Labeling system: Build a labeling system for users and merchants,relevant recommendations and advertisements are carried out based on system labels.
-2. Web SEO: Optimize website structure and keyword ranking, page views increased by 500% month-on-month, and organic search accounted for 65%.
-3. Google Ads: Get 10,000+ low-priced high-quality words through crawler and sql cleaning for Google Ads.
+1. Labeling system:Built a labeling system for users and merchants,relevant recommendations and advertisements are carried out based on system labels.
+2. Web SEO:Optimized website structure and keyword ranking, page views increased by 500% month-on-month, and organic search accounted for 65%.
+3. Google Ads:Got 10,000+ low-priced high-quality words through crawler and sql cleaning for Google Ads.
 
 
 
@@ -103,8 +103,8 @@ Shanghai
 ```
 Shanghai 
 ```
-1. Work closely with business operators to locate the core users of Taobao Data Bank, establish a label system,advertising on Toutiao and Tiktok-China, and analyze the conversion through rate of different materials and corresponding groups.
-2. Optimize advertising population, advertising materials and profit distribution strategies to increase ROI.
+1. Worked closely with business operators to locate the core users of Taobao Data Bank, establish a label system,advertising on Toutiao and Tiktok-China, and analyzed the conversion through rate of different materials and corresponding groups.
+2. Optimized advertising population, advertising materials and profit distribution strategies to increase ROI.
 
 
 ### **Patrol system for Lancy** `2018.04 - 2018.10`
@@ -113,7 +113,7 @@ Beijing
 ```
 
 1. Led a team of 10-person team to build a patrol system for Lancy, with functions including SKU management and employee approval flow, serving 2000+ stores.
-2. Build a statistical system based on location,increase the inventory turnover rate by 13%.
+2. Built a statistical system based on location,increased the inventory turnover rate by 13%.
 
 
 ### **Vlife Website** `2016.10 - 2017.10`
@@ -121,8 +121,8 @@ Beijing
 San Jose 
 ```
 
-1. Lead a 5-person team to redesign the website, optimize SEO, SNS, increase 85% of new registered users, and increase the average activity rate next month by 16%.
-2. Design a new function to establish contact with existing Facebook, Twitter and LinkedIn friends, increase friend invitation registration by 27%.
+1. Led a 5-person team to redesign the website, optimized SEO, SNS, increased 85% of new registered users, and increased the average activity rate next month by 16%.
+2. Built a new function to establish contact with existing Facebook, Twitter and LinkedIn friends, increased friend invitation registration by 27%.
 3. Built a rebate system based on Affiliate Marketing, allowing users to generate and track links, accounting for 15% of the main site traffic.
 
 <br/>
@@ -132,8 +132,8 @@ San Jose
 Dallas
 ```
 The Shanghai International Exhibition Center is the organizer of the exhibition, promoting the exchange of high-tech industries, and reaching hundreds of millions of project cooperation.
-1. Lead the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
-2. Designed a user-guided registration mechanism and adjusted the bilingual layout of the page to facilitate the registration and browsing of users in China and the United States.
+1. Led the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
+2. Built a user-guided registration mechanism and adjusted the bilingual layout of the page to facilitate the registration and browsing of users in China and the United States.
 
 
 
