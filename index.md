@@ -103,7 +103,7 @@ Shanghai
 ```
 Shanghai 
 ```
-1. Worked closely with business operators to locate the core users of Taobao Data Bank, establish a label system,advertising on Toutiao and Tiktok-China, and analyzed the conversion through rate of different materials and corresponding groups.
+1. Worked closely with business operators to locate the core users of Taobao Data Bank, establish a label system,advertising on Toutiao and Tiktok-China.
 2. Optimized advertising population, advertising materials and profit distribution strategies to increase ROI.
 
 
