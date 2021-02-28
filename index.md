@@ -107,7 +107,7 @@ Shanghai
 2. Optimize advertising population, advertising materials and profit distribution strategies to increase ROI.
 
 
-### ** Patrol system for Lancy** `2018.04 - 2018.10`
+### **Patrol system for Lancy** `2018.04 - 2018.10`
 ```
 Beijing 
 ```
