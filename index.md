@@ -10,7 +10,7 @@ homepage:
   
 ---
 
-# Kefei Ma
+# Mark Ma
 
 <!--
 include contact information from the front matter
