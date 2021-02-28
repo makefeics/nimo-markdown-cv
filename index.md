@@ -112,7 +112,7 @@ Shanghai
 Beijing 
 ```
 
-1. Led a team of 10 people to build a patrol system for Lancy, with functions including SKU management and employee approval flow, serving 2000+ stores.
+1. Led a team of 10-person team to build a patrol system for Lancy, with functions including SKU management and employee approval flow, serving 2000+ stores.
 2. Build a statistical system based on location,increase the inventory turnover rate by 13%.
 
 
@@ -121,7 +121,7 @@ Beijing
 San Jose 
 ```
 
-1. Lead a team of 5 people to redesign the website, optimize SEO, SNS, increase 85% of new registered users, and increase the average activity rate next month by 16%.
+1. Lead a 5-person team to redesign the website, optimize SEO, SNS, increase 85% of new registered users, and increase the average activity rate next month by 16%.
 2. Design a new function to establish contact with existing Facebook, Twitter and LinkedIn friends, increase friend invitation registration by 27%.
 3. Built a rebate system based on Affiliate Marketing, allowing users to generate and track links, accounting for 15% of the main site traffic.
 
