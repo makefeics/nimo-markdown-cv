@@ -35,7 +35,7 @@ Dallas,TX
 ### **Tianjin University Of Technology** `2009.09 - 2013.06`
 
 ```
-Tianjin, TJ  
+Tianjin,TJ
 ```
 
 - B.S. in Computer Science
@@ -46,7 +46,7 @@ Tianjin, TJ
 ### **Shanghai Xifanxi Co., Ltd.** `2018.10 - 2020.06`
 
 ```
-Shanghai, CHN
+Shanghai,CHN
 ```
 
 _Product Manager_<br>
@@ -64,7 +64,7 @@ _Product Manager_<br>
 ### **Beijing Meiqia Co., Ltd.** `2017.06 - 2018.06`
 
 ```
-Beijing, CHN 
+Beijing,CHN 
 ```
 
 _Product Manager_<br>
@@ -78,7 +78,7 @@ _Product Manager_<br>
 ### **Vlife LLC** `2015.05 - 2017.06`
 
 ```
-San Jose, US 
+San Jose,US 
 ```
 
 _Product Manager & Engineer_<br>
