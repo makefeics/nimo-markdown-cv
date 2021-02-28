@@ -10,7 +10,7 @@ homepage:
   
 ---
 
-# 马克菲
+# Kefei Ma
 
 <!--
 include contact information from the front matter
@@ -22,116 +22,118 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## Education
 
-### **德克萨斯大学达拉斯分校 University Of Texas At Dallas（专排Top50）** `2013 - 2015 `
-
-```
-达拉斯, 美国 
-```
-
-- 硕士 软件工程（全奖,Top10%）   核心课程：大数据、敏捷开发、交互原理、软件工程。
-
-### **天津理工大学** `2009 - 2013 `
+### ** University Of Texas At Dallas（Computer Science Top50）** `2013.09 - 2015.05`
 
 ```
-天津, 中国 
+Dallas,TX
 ```
 
-- 本科 计算机科学与技术  （GPA 3.6）    核心课程：离散数学、操作系统、编译原理、计算机导论。
+- M.S. in Software Engineering
 
-## 自我评价
-我是求职者马克菲，个性积极热爱挑战，计算机留美硕士，八年软件行业开发与产品经验，新零售的产品建设，电商中后台链路规划，CRM产品从0到1，擅长挖掘用户痛点、数据分析，有丰富的项目实施交付经验。
-## 工作经历
-
-### **喜繁喜上海商贸有限公司** `2018 - 2020 `
+### **Tianjin University Of Technology** `2009.09 - 2013.06`
 
 ```
-上海 
+Tianjin, TJ  
 ```
 
-_产品经理_<br>
+- B.S. in Computer Science
+
+
+## Experience
+
+### **Shanghai Xifanxi Co., Ltd.** `2018.10 - 2020.06`
+
+```
+Shanghai, CHN
+```
+
+_Product Manager_<br>
 
 
 
 
-1. 系统规划：负责电商系统布局，包括ERP系统、OMS系统、CRM系统等。
-2. 资源整合：集成天猫、JD、微商城、小红书等渠道数据，与自研OMS和WMS打通，确保全链路交易顺畅。
-3. 营销功能：与运营密切沟通，定制小程序营销与线下营销活动，统筹研发资源，确保及时交付。
-4. 数据分析：搭建AIPL模型，与运营部门协作，用户留存率提高35%，支付转换率提高10%。
+1. System planning: Responsible for e-commerce system construction,including Enterprise Resource Planning system,Order Management system and Customer Relationship Management system.
+2. Resource integration: Integrate data from Tmall,JD, WeChat Store,Xiaohongshu, and connect with self-developed OMS and WMS to ensure smooth transactions across the entire link.
+3. Marketing function: Customize WeChat Mini Store marketing and offline marketing activities, coordinate research and development resources, and ensure on-time delivery.
+4. Data analysis: Building an AIPL model and collaborating with the operation department, the user retention rate increased by 35%, and the payment conversion rate increased by 10%.
+
 <br/>
 
-### **美洽网络科技有限公司** `2017 - 2018 `
+### **Beijing Meiqia Co., Ltd.** `2017.06 - 2018.06`
 
 ```
-北京 
+Beijing, CHN 
 ```
 
-_产品经理_<br>
+_Product Manager_<br>
 
-1. CRM产品：与KA客户沟通需求，归纳业务逻辑，依托于数据中台，搭建不同行业的解决方案，从0到1上线。
-2. SaaS产品：负责营销模块、审批模块、权限系统的功能迭代，服务10万+企业客户。
-3. 拓客合作：与Amazon生态伙伴合作，规划联合解决方案， 推动销售转化。
+1. CRM products: Communicate with KA customers, build solutions for different industries based on the data center, built the product from 0 to 1.
+2. SaaS products: Responsible for the functional iteration of the marketing module, approval module, and authorization system, serving 100,000+ corporate customers.
+3. Seek cooperation opportunities: Cooperate with Amazon ecological partners to promote sales conversion.
+
 <br/>
 
-### **Vlife LLC** `2015 - 2017 `
+### **Vlife LLC** `2015.05 - 2017.06`
 
 ```
-圣何塞, 美国 
+San Jose, US 
 ```
 
-_产品经理 软件工程师_<br>
+_Product Manager & IT_<br>
 
-1. 标签系统：构建了用户和商户标签系统，根据系统标签进行相关性推荐及广告投放。
-2. 网站SEO：优化网站结构及关键词排名，浏览量环比提高500%，自然搜索占65%。
-3. Google Ads：通过爬虫和sql清洗得到低价高质量词1万+，Google Ads投放引流。
+1.  Labeling system: Build a labeling system for users and merchants,relevant recommendations and advertisements are carried out based on system labels.
+2. Web SEO: Optimize website structure and keyword ranking, page views increased by 500% month-on-month, and organic search accounted for 65%.
+3. Google Ads: Get 10,000+ low-priced high-quality words through crawler and sql cleaning for Google Ads.
 
 
-## 项目经历
 
-### **巨量引擎广告投放** `2019 - 2020`
+## Projects
+
+### **Wechat Store** `2019.03 - 2019.07`
 ```
-上海 
+Shanghai 
 ```
-1. 与商户运营人员密切协作，筛选淘系数据银行核心用户，建立标签体系，在今日头条和抖音进行广告投放。
-2. 分析不同素材及对应人群的CTR转化率等，设置合理的引流方案，优化投放人群、投放素材和让利策略，提升ROI。
+1. Led a 7-person team to build a WeChat Store, including sales system, marketing system, membership system, order management system and product management system.
+2. Built differential pricing and rebates function for offline distribution channels to meet offline sales and tracking statistics.
 
-### **Goodbar微商城小程序** `2019`
-```
-上海 
-```
-1. 带领7人团队搭建了微商城和小程序，包括销售系统、营销系统、会员系统、中台订单与SKU管控系统等。
-2. 基于商家运营需求，规划线上线下分销渠道差异定价及返佣，满足线下活动销售及追踪统计。
 
-### **朗姿巡店系统** `2018 `
+### **Advertising** `2019.05 - 2020.03`
 ```
-北京 
+Shanghai 
+```
+1. Work closely with business operators to locate the core users of Taobao Data Bank, establish a label system,advertising on Toutiao and Tiktok-China, and analyze the conversion through rate of different materials and corresponding groups.
+2. Optimize advertising population, advertising materials and profit distribution strategies to increase ROI.
+
+
+### ** Patrol system for Lancy** `2018.04 - 2018.10`
+```
+Beijing 
 ```
 
-1. 带领10人团队为朗姿搭建了巡店系统，包括信息管理检索、审批流、考核等，服务了2000+门店。
-2. 与业务方密切沟通，搭建了基于lBS的统计系统，实现了系统的私有化部署，提高库存周转率13%。
+1. Led a team of 10 people to build a patrol system for Lancy, with functions including SKU management and employee approval flow, serving 2000+ stores.
+2. Build a statistical system based on location,increase the inventory turnover rate by 13%.
 
-### **Vlife社区项目** `2016 - 2017 `
+
+### **Vlife Website** `2016.10 - 2017.10`
 ```
 圣何塞 
 ```
 
-Vlife是一家有100万+注册用户的北美社交网站，用户分享资讯，结交朋友。
+1. Lead a team of 5 people to redesign the website, optimize SEO, SNS, increase 85% of new registered users, and increase the average activity rate next month by 16%.
+2. Design a new function to establish contact with existing Facebook, Twitter and LinkedIn friends, increase friend invitation registration by 27%.
+3. Built a rebate system based on Affiliate Marketing, allowing users to generate and track links, accounting for 15% of the main site traffic.
 
-1. 带领5人团队重新设计网站，优化SEO、SNS、站群等，提升85%新注册用户，平均次月活跃度增加16%。
-2. 设计一个新功能与现有的Facebook、Twitter和LinkedIn好友建立联系，好友邀请注册增加了27%。
-3. 搭建了基于Affiliate Marketing的返佣系统，允许用户生成追踪外链，占主站流量的15%。
 <br/>
 
-### **浦东-达拉斯高新产业交流展会官网** `2014 `
+### **Pudong-DFW website** `2014.01 - 2014.08`
 ```
 达拉斯
 ```
-
-上海国际展览中心是展会的组织者，促进高新产业的交流，达成上亿级项目合作。
-
-1. 领导负责2014年浦东—达拉斯高新产业交流展会 Pudong-DFW Forum 网站的搭建。
-2. 设计了用户引导注册机制，调整页面双语布局，方便中国及美国用户的注册浏览。
+The Shanghai International Exhibition Center is the organizer of the exhibition, promoting the exchange of high-tech industries, and reaching hundreds of millions of project cooperation.
+1. Lead the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
+2. Designed a user-guided registration mechanism and adjusted the bilingual layout of the page to facilitate the registration and browsing of users in China and the United States.
 
 
 
