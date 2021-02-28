@@ -81,7 +81,7 @@ _Product Manager_<br>
 San Jose, US 
 ```
 
-_Product Manager & IT_<br>
+_Product Manager & Engineer_<br>
 
 1.  Labeling system: Build a labeling system for users and merchants,relevant recommendations and advertisements are carried out based on system labels.
 2. Web SEO: Optimize website structure and keyword ranking, page views increased by 500% month-on-month, and organic search accounted for 65%.
