@@ -119,9 +119,9 @@ _Product Manager & Engineer_<br>
 
 ### **Pudong-DFW website** `2014.01 - 2014.08`
 
-The Shanghai International Exhibition Center is the organizer of the exhibition, promoting the exchange of high-tech industries, and reaching hundreds of millions of project cooperation.
-1. Led the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
-2. Built a user-guided registration mechanism and adjusted the bilingual layout of the page to facilitate the registration and browsing of users in China and the United States.
+1.The Shanghai International Exhibition Center is the organizer of the exhibition, promoting the exchange of high-tech industries, and reaching hundreds of millions of project cooperation.
+2. Led the construction of the Pudong-DFW website for the 2014 Pudong-Dallas High-tech Industry Exchange Exhibition.
+3. Built a user-guided registration mechanism and adjusted the bilingual layout of the page to facilitate the registration and browsing of users in China and the United States.
 
 
 
