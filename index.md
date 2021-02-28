@@ -24,13 +24,13 @@ Supported arguments:
 
 ## Education
 
-### **University Of Texas At Dallas(Computer Science Top50)** `2013.09 - 2015.05`
+### **University Of Texas At Dallas** `2013.09 - 2015.05`
 
 ```
 Dallas,TX
 ```
 
-- M.S. in Software Engineering
+- M.S. in Software Engineering (Computer Science Top50)
 
 ### **Tianjin University Of Technology** `2009.09 - 2013.06`
 
