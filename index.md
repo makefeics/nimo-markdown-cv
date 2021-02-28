@@ -30,7 +30,7 @@ Supported arguments:
 Dallas,TX
 ```
 
-- M.S. in Software Engineering (Computer Science Top50)
+- M.S. in Software Engineering (Top 50 Majors)
 
 ### **Tianjin University Of Technology** `2009.09 - 2013.06`
 
